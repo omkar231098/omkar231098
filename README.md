@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Dhanave</h1>
 <h3 align="center">A Node.js developer is responsible for building and maintaining server-side applications using Node.js, a popular open-source JavaScript runtime environment. They use their knowledge of JavaScript, web development, and server-side programming to create efficient and scalable applications that handle large amounts of data and traffic.</h3>
-<img align="right" width="100%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="100%" height="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar231098&label=Profile%20views&color=0e75b6&style=flat" alt="omkar231098" /> </p>
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB, Mongoose**
