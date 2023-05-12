@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **o.m.dhanave@gmail.com**
 
-- 👨‍💻 Know more about me [My Portfolio](https://omkar231098.github.io)
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H13qfzh36W56C1tj4Ck5oi5Ftd2yu_8p/view?usp=share_link](https://drive.google.com/file/d/1H13qfzh36W56C1tj4Ck5oi5Ftd2yu_8p/view?usp=share_link)
 
