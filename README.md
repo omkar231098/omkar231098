@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB, Mongoose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omkar231098](https://github.com/omkar231098)
-
 - 💬 Ask me about **Node.js, Express, MongoDB, Mongoose**
 
 - 📫 How to reach me **o.m.dhanave@gmail.com**
