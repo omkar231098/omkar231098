@@ -3,13 +3,11 @@
 <img align="right" width="100%" height="100%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar231098&label=Profile%20views&color=0e75b6&style=flat" alt="omkar231098" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB, Mongoose**
-
 - 💬 Ask me about **Node.js, Express, MongoDB, Mongoose**
 
-- 📫 How to reach me **o.m.dhanave@gmail.com**
- 
-- 🔗  <a href="https://omkar231098.github.io" target="_blank" >My Portfolio</a>
+- 🌱 I’m currently learning **Node.js, Express, MongoDB, Mongoose**
+
+ 🔗 My Portfolio **https://omkar231098.github.io/**
 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H13qfzh36W56C1tj4Ck5oi5Ftd2yu_8p/view?usp=share_link](https://drive.google.com/file/d/1H13qfzh36W56C1tj4Ck5oi5Ftd2yu_8p/view?usp=share_link)
