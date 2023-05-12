@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Omkar Dhanave</h1>
 <h3 align="center">A Node.js developer is responsible for building and maintaining server-side applications using Node.js, a popular open-source JavaScript runtime environment. They use their knowledge of JavaScript, web development, and server-side programming to create efficient and scalable applications that handle large amounts of data and traffic.</h3>
-<img align="right" width="100%" height="100%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar231098&label=Profile%20views&color=0e75b6&style=flat" alt="omkar231098" /> </p>
 
-- 💬 Ask me about **Node.js, Express, MongoDB, Mongoose**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar231098" alt="omkar231098" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB, Mongoose**
 
- 🔗 My Portfolio **https://omkar231098.github.io/**
+- 👨‍💻 All of my projects are available at [https://omkar231098.github.io/](https://omkar231098.github.io/)
 
+- 💬 Ask me about **Node.js, Express, MongoDB, Mongoose**
+
+- 📫 How to reach me **o.m.dhanave@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H13qfzh36W56C1tj4Ck5oi5Ftd2yu_8p/view?usp=share_link](https://drive.google.com/file/d/1H13qfzh36W56C1tj4Ck5oi5Ftd2yu_8p/view?usp=share_link)
 
-- ⚡ Fun fact **hello**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/omkardhanave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkardhanave/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/omkardhanave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkardhanave/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
