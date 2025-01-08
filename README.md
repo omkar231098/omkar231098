@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB, Mongoose**
 
-- 👨‍💻 All of my projects are available at [https://omkar231098.github.io/](https://omkar231098.github.io/)
+- 👨‍💻 All of my projects are available at [https://omkardhanave.vercel.app/](https://omkardhanave.vercel.app/)
 
 - 💬 Ask me about **Node.js, Express, MongoDB, Mongoose**
 
