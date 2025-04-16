@@ -1,32 +1,76 @@
-<h1 align="center">Hi 👋, I'm Omkar Dhanave</h1>
-<h3 align="center">A Node.js developer is responsible for building and maintaining server-side applications using Node.js, a popular open-source JavaScript runtime environment. They use their knowledge of JavaScript, web development, and server-side programming to create efficient and scalable applications that handle large amounts of data and traffic.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar231098&label=Profile%20views&color=0e75b6&style=flat" alt="omkar231098" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar231098" alt="omkar231098" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Node.js, Express, MongoDB, Mongoose**
-
-- 👨‍💻 All of my projects are available at [https://omkardhanave.vercel.app/](https://omkardhanave.vercel.app/)
-
-- 💬 Ask me about **Node.js, Express, MongoDB, Mongoose**
-
-- 📫 How to reach me **o.m.dhanave@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H13qfzh36W56C1tj4Ck5oi5Ftd2yu_8p/view?usp=share_link](https://drive.google.com/file/d/1H13qfzh36W56C1tj4Ck5oi5Ftd2yu_8p/view?usp=share_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omkardhanave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkardhanave/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer" width="60%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar231098&show_icons=true&locale=en&layout=compact" alt="omkar231098" /></p>
+# 👋 Hey there, I'm Omkar Dhanave
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkar231098&show_icons=true&locale=en" alt="omkar231098" /></p>
+### 🚀 Backend Developer | Node.js Enthusiast | API Craftsman
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar231098&" alt="omkar231098" /></p>
+I'm passionate about turning backend logic into real-world solutions using **Node.js**, **Express.js**, and **MongoDB**. I focus on building clean, scalable, and efficient APIs while continuously learning and exploring new tech.
+
+---
+
+## 🧠 Currently Exploring
+
+- 🔧 Node.js, Express.js, MongoDB, Mongoose  
+- 🛠️ Building RESTful APIs & backend architectures  
+- 💡 Improving performance and scalability
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkar231098&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar231098&layout=compact&theme=radical&hide_border=true" height="180px"/>
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omkardhanave/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/omkar231098" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 📫 Reach Me
+
+- 📧 Email: **o.m.dhanave@gmail.com**  
+- 🌐 Portfolio: [omkardhanave.vercel.app](https://omkardhanave.vercel.app)  
+- 📄 [My Resume](https://drive.google.com/file/d/1H13qfzh36W56C1tj4Ck5oi5Ftd2yu_8p/view?usp=share_link)
+
+---
+
+## 🌟 Let's Build Something Great
+
+Thanks for visiting! If you're looking for a backend developer to join your team or collaborate on a cool project — I’m all ears. Let’s connect and create awesome stuff! 🙌
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkar231098&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
+</p>
